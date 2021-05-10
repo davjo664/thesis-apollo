@@ -34,7 +34,7 @@
     "graphql": "^14.4.2",
     "immutability-helper": "^2",
     "jquery": "https://github.com/ryankshaw/jquery.git#dadf794ebc4c4dcf94c344dab7d9341d46bc17cc",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.21",
     "prop-types": "^15",
     "qs": "^6.6.0",
     "react": "^16.8.6",
