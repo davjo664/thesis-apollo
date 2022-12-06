@@ -36,7 +36,7 @@
     "jquery": "https://github.com/ryankshaw/jquery.git#dadf794ebc4c4dcf94c344dab7d9341d46bc17cc",
     "lodash": "^4.16.4",
     "prop-types": "^15",
-    "qs": "^6.6.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
